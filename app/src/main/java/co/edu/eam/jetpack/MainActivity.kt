@@ -35,6 +35,7 @@ class MainActivity : ComponentActivity() {
                 Text(text = "$name y $name1", style = MaterialTheme.typography.titleLarge)
                 Text(text = "Ingeniería de Software")
                 Text(text = "Construcción de Apps moviles")
+                Text(text = "VII")
             }
         }
 
